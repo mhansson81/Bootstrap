@@ -1,2 +1,2 @@
 # Bootstrap
-Statistical Anlysis of Atlantic wave heights using Bootstrap
+Statistical Anlysis of Atlantic wave heights using Bootstrapping
